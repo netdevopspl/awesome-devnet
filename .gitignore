@@ -1,0 +1,9 @@
+*.code-workspace
+.vagrant
+logs/*
+venv/
+.env
+.venv
+*.swp
+Thumbs.db
+__pycache__
